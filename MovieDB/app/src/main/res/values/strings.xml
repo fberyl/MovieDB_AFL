@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="hit_api">Hit API</string>
+    <string name="textview">TextView</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="releasedate">Sub title</string>
+    <string name="todo">TODO</string>
+    <string name="img">img</string>
+    <string name="movie_id">movie_id</string>
+    <string name="title_details">title_details</string>
+    <string name="Title">title</string>
+    <string name="genre_id">genre id</string>
+    <string name="OriginalLang">Original Language</string>
+    <string name="OriginalTitle">Original Title</string>
+    <string name="BackdropPath">backdrop path</string>
+    <string name="Popularity">popularity</string>
+    <string name="vote_count">vote count</string>
+    <string name="video">video</string>
+    <string name="vote_average">vote average</string>
+    <string name="titleDetails">title</string>
+    <string name="overview">description</string>
+    <string name="VoteCount">Vote Count</string>
+    <string name="popularity">popularity</string>
+    <string name="voteCount">Vote Count</string>
+    <string name="genre">genre</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="up_coming">Up Coming</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="duration">duration</string>
+    <string name="rating">rating</string>
+    <string name="tagline">tagline</string>
+</resources>
